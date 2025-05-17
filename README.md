@@ -51,12 +51,12 @@ We adopted a method combining FID and human evaluations for LLM assessment. FID 
 
 ### 🚀Development
 
-**IPFSNFT.sol Contracts**
+**Prediction_Market_v3.rs Contracts**
 
 | contract                   |                                                                                                                   contract address |
 | :------------------------- | ---------------------------------------------------------------------------------------------------------------------------------: |
-| Solana Mainnet    | [0xd644eeb2217d02f167e8865fff55079fc140e971](https://sepolia.etherscan.io/address/0xd644eeb2217d02f167e8865fff55079fc140e971)|
-| Solana Devnet    | [0xd644eeb2217d02f167e8865fff55079fc140e971](https://sepolia.etherscan.io/address/0xd644eeb2217d02f167e8865fff55079fc140e971)|
+| Solana Devnet    | [4cD2eMa4b8Veqo5B8gT6e8GehGbh3HEYvAnH9mkhRATmCgE7AkATDJkeisn9GausgKwedHdjT45mooSb6Yt1bp9t](https://explorer.solana.com/tx/4cD2eMa4b8Veqo5B8gT6e8GehGbh3HEYvAnH9mkhRATmCgE7AkATDJkeisn9GausgKwedHdjT45mooSb6Yt1bp9t?cluster=devnet)|
+
 
 ---
 
