@@ -50,6 +50,8 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 | **Minting**      | NFT minting and metadata generation via Metaplex                            |
 | **Blockchain**   | Solana blockchain with smart contracts built using Rust & Anchor            |
 
+![Image](https://github.com/user-attachments/assets/d3387dcc-75b5-4c29-97aa-6962af256562)
+
 ---
 
 ### 🚀Development
