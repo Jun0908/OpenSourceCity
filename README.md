@@ -39,23 +39,16 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 
 ---
 
-### 🔧Technologies I used
+## 🔧 Technologies I Used
 
-**The following architecture illustrates the implemented components of the Open Source City platform**
-
-Login: Multi-wallet (Phantom, Backpack, Solflare) authentication.
-
-Token: Token and memecoin integration via Pump.fun & Perena.
-
-3D Generation: Upload-to-3D pipeline using LLMs, Render Network.
-
-Vote:　Governance voting powered by Futarchy
-
-Minting: NFTs minted via Metaplex.
-
-Blockchain: Solana-based smart contracts using Rust & Anchor.
-
-![Image](https://github.com/user-attachments/assets/d3387dcc-75b5-4c29-97aa-6962af256562)
+| Component        | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| **Login**        | Multi-wallet support (Phantom, Backpack, Solflare) for user authentication |
+| **Token**        | Integration with Pump.fun and Perena for token/memecoin issuance            |
+| **3D Generation**| Upload-to-3D pipeline using LLMs, Docker, PyTorch + Render Network          |
+| **Vote**         | Futarchy-based governance using Futalucy                                    |
+| **Minting**      | NFT minting and metadata generation via Metaplex                            |
+| **Blockchain**   | Solana blockchain with smart contracts built using Rust & Anchor            |
 
 ---
 
