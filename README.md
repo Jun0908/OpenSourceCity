@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Open Source City — Your Way
 
-## Getting Started
+## Who Owns the City? Your Imagination Builds Ours
 
-First, run the development server:
+### Vision
+- Digitize and open-source physical urban infrastructure.
+- Release urban data and designs as digital assets on the global stage.
+- Circulate as NFTs on the Solana blockchain to create a new urban economy.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌍 What's the Problem?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Urban planning and development today face multiple challenges:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **High Development Risk**: Developers and municipalities incur enormous financial risks in early-stage urban projects.
+- **Disempowered Participation**: Citizens often lack meaningful ways to participate in decision-making, turning cities into impersonal systems.
+- **Declining Local Identity**: Regional areas are suffering from depopulation and the loss of unique cultural character — an indirect but critical issue.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ What We're Building
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🌍 Fully Open-Source City Development Platform
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+A decentralized, participatory urban design platform with simulation and NFT-powered economic mechanisms.
 
-## Deploy on Vercel
+#### ✨ Virtual Trials & Pop-up Tests
+- Try-and-error prototyping in virtual spaces.
+- Real-world validation through short-term popup implementations.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### ✨ Predictive Governance Model
+- Uses **Futarchy**  to guide urban planning based on predicted resident satisfaction.
+- Citizens vote not on policies but on desired outcomes: "Do I want to live here?"
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### ✨ Data-Driven Economic Layer
+- Collect and analyze architectural and behavioral data.
+- Sell design analytics and implementation reports as a new revenue model.
+
+---
+
+## 📈 Business Model
+
+**Target**: Real Estate & Urban Development Sector
+
+### Pain Points
+- **Consensus Risk**: 30–50% of urban development projects stall due to failure in public engagement.
+- **Design & Delay Risk**: On average, design flaws and delayed decisions lead to 57% cost overruns.
+
+### Value Proposition
+- **Risk Reduction**: Virtual testing + resident-driven design via Futarchy reduces these risks by up to 80%.
+- **Cost Savings**: Potential to save tens to hundreds of millions of yen per project.
+- **Revenue**: SaaS-based tools with an annual licensing fee of approximately ¥10 million.
+
+---
+
+## 🔗 Blockchain Infrastructure
+
+- All urban design contributions and participatory data minted as NFTs on **Solana**.
+- Transparent, traceable contributions create a new public trust mechanism.
+
+---
+
+## 🌱 Next Steps
+
+- Launch MVP featuring virtual simulation and NFT minting tools.
+- Partner with local governments for pop-up trials.
+- Release governance toolkit (Futarchy/Harberger funding simulator) for early adopters.
+
+---
+
+## 🌐 Towards a Decentralized Urban Future
+
+We aim to redefine how cities are built — from exclusive top-down planning to inclusive, community-driven co-creation. Our mission is to turn urban planning into a participatory digital commons, making urban life fairer, smarter, and more responsive.
+
+**Open Source City** is not just a tool — it is a movement.
+
