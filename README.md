@@ -41,9 +41,19 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 
 ### 🔧Technologies I used
 
-**1.Model Evaluation through FID and Human Insights**
+**The following architecture illustrates the implemented components of the Open Source City platform**
 
-We adopted a method combining FID and human evaluations for LLM assessment. FID was used to objectively assess quality and diversity, and World was utilized to verify human authenticity rather than bots. Finally, reviews were conducted by human evaluators from diverse backgrounds. Tokens were distributed to evaluators to encourage fair and accurate evaluations.
+Login: Multi-wallet (Phantom, Backpack, Solflare) authentication.
+
+Token: Token and memecoin integration via Pump.fun & Perena.
+
+3D Generation: Upload-to-3D pipeline using LLMs, Render Network.
+
+Vote:　Governance voting powered by Futarchy
+
+Minting: NFTs minted via Metaplex.
+
+Blockchain: Solana-based smart contracts using Rust & Anchor.
 
 ![Image](https://github.com/user-attachments/assets/d3387dcc-75b5-4c29-97aa-6962af256562)
 
