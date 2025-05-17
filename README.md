@@ -39,39 +39,4 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 
 ---
 
-## 📈 Business Model
-
-**Target**: Real Estate & Urban Development Sector
-
-### Pain Points
-- **Consensus Risk**: 30–50% of urban development projects stall due to failure in public engagement.
-- **Design & Delay Risk**: On average, design flaws and delayed decisions lead to 57% cost overruns.
-
-### Value Proposition
-- **Risk Reduction**: Virtual testing + resident-driven design via Futarchy reduces these risks by up to 80%.
-- **Cost Savings**: Potential to save tens to hundreds of millions of yen per project.
-- **Revenue**: SaaS-based tools with an annual licensing fee of approximately ¥10 million.
-
----
-
-## 🔗 Blockchain Infrastructure
-
-- All urban design contributions and participatory data minted as NFTs on **Solana**.
-- Transparent, traceable contributions create a new public trust mechanism.
-
----
-
-## 🌱 Next Steps
-
-- Launch MVP featuring virtual simulation and NFT minting tools.
-- Partner with local governments for pop-up trials.
-- Release governance toolkit (Futarchy/Harberger funding simulator) for early adopters.
-
----
-
-## 🌐 Towards a Decentralized Urban Future
-
-We aim to redefine how cities are built — from exclusive top-down planning to inclusive, community-driven co-creation. Our mission is to turn urban planning into a participatory digital commons, making urban life fairer, smarter, and more responsive.
-
-**Open Source City** is not just a tool — it is a movement.
 
