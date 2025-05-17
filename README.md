@@ -47,31 +47,25 @@ We adopted a method combining FID and human evaluations for LLM assessment. FID 
 
 <img width="526" alt="スクリーンショット 2024-11-17 0 15 45" src="https://github.com/user-attachments/assets/1ab667f5-c646-4a8c-8bde-9a0000f7f936">
 
-
-**2.Text to Image with LLM Mint**
-
-We implemented a system where each LLM can be minted as an NFT, allowing NFT holders to access text-to-image prompt capabilities. The text-to-image generation is powered by Hyperbolic, a decentralized GPU network, ensuring robust, distributed processing for high-quality image creation. The generated images are stored securely on Storacha by Protocol Labs, ensuring decentralized and reliable storage. Each image is then minted as a unique NFT, creating a seamless ecosystem where users can generate, store, and own digital content with blockchain-backed authenticity and provenance.
-
-<img width="624" alt="スクリーンショット 2024-11-17 0 15 25" src="https://github.com/user-attachments/assets/ed41036b-ffa2-4004-9726-34a5291e264d">
-
 ---
 
-### Development
+### 🚀Development
 
 **IPFSNFT.sol Contracts**
 
 | contract                   |                                                                                                                   contract address |
 | :------------------------- | ---------------------------------------------------------------------------------------------------------------------------------: |
-| Ethereum Sepolia    | [0xd644eeb2217d02f167e8865fff55079fc140e971](https://sepolia.etherscan.io/address/0xd644eeb2217d02f167e8865fff55079fc140e971)|
+| Solana Mainnet    | [0xd644eeb2217d02f167e8865fff55079fc140e971](https://sepolia.etherscan.io/address/0xd644eeb2217d02f167e8865fff55079fc140e971)|
+| Solana Devnet    | [0xd644eeb2217d02f167e8865fff55079fc140e971](https://sepolia.etherscan.io/address/0xd644eeb2217d02f167e8865fff55079fc140e971)|
 
 ---
 
-### Implementation Status
+### 👨‍💻Implementation Status
 
 | Title          |                                                              URL |
 | :------------- | ---------------------------------------------------------------: |
-| Demo Movie      |                                      [Nudibranch-demo](https://youtu.be/agQj5_Lpucc)|
-| Pitch Doc    |   [Nudibranch-presentation](https://www.canva.com/design/DAGVtA0iy08/Sz0p5ehf7WcXCwoIdE_ZVg/edit?utm_content=DAGVtA0iy08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-| Demo Site     |                                 [Nudibranch-demo](https://tpfsg35rib.ap-northeast-1.awsapprunner.com/evaluate-1)| 
+| Demo Movie      |                                      [OpenSourceCity-movie](https://youtu.be/agQj5_Lpucc)|
+| Pitch Doc    |   [OpenSourceCity-presentation](https://www.canva.com/design/DAGVtA0iy08/Sz0p5ehf7WcXCwoIdE_ZVg/edit?utm_content=DAGVtA0iy08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Demo Site     |                                 [OpenSourceCit-demo](https://tpfsg35rib.ap-northeast-1.awsapprunner.com/evaluate-1)| 
 
 
