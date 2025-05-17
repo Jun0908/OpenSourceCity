@@ -45,7 +45,7 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 
 We adopted a method combining FID and human evaluations for LLM assessment. FID was used to objectively assess quality and diversity, and World was utilized to verify human authenticity rather than bots. Finally, reviews were conducted by human evaluators from diverse backgrounds. Tokens were distributed to evaluators to encourage fair and accurate evaluations.
 
-<img width="526" alt="スクリーンショット 2024-11-17 0 15 45" src="https://github.com/user-attachments/assets/1ab667f5-c646-4a8c-8bde-9a0000f7f936">
+![Image](https://github.com/user-attachments/assets/d3387dcc-75b5-4c29-97aa-6962af256562)
 
 ---
 
