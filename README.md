@@ -39,7 +39,7 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 
 ---
 
-### Technologies I used
+### 🔧Technologies I used
 
 **1.Model Evaluation through FID and Human Insights**
 
