@@ -71,6 +71,6 @@ A decentralized, participatory urban design platform with simulation and NFT-pow
 | :------------- | ---------------------------------------------------------------: |
 | Pitch Doc    |   [OpenSourceCity-presentation](https://www.canva.com/design/DAGmcmGiJOw/rsN_pSKuStKqXZcfuhpxPg/view?utm_content=DAGmcmGiJOw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7cd825313f) |
 | Demo Site     |                                 [OpenSourceCit-demo](https://opensourcecity.xyz/)| 
-| Demo Movie      |                                      [OpenSourceCity-movie](https://youtu.be/agQj5_Lpucc)|
+| Demo Movie      |                                      [OpenSourceCity-movie](https://www.youtube.com/watch?v=ZAOMb7QHweA)|
 
 
