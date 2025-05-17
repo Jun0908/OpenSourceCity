@@ -64,8 +64,8 @@ We adopted a method combining FID and human evaluations for LLM assessment. FID 
 
 | Title          |                                                              URL |
 | :------------- | ---------------------------------------------------------------: |
+| Pitch Doc    |   [OpenSourceCity-presentation](https://www.canva.com/design/DAGmcmGiJOw/rsN_pSKuStKqXZcfuhpxPg/view?utm_content=DAGmcmGiJOw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7cd825313f) |
+| Demo Site     |                                 [OpenSourceCit-demo](https://opensourcecity.xyz/)| 
 | Demo Movie      |                                      [OpenSourceCity-movie](https://youtu.be/agQj5_Lpucc)|
-| Pitch Doc    |   [OpenSourceCity-presentation](https://www.canva.com/design/DAGVtA0iy08/Sz0p5ehf7WcXCwoIdE_ZVg/edit?utm_content=DAGVtA0iy08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-| Demo Site     |                                 [OpenSourceCit-demo](https://tpfsg35rib.ap-northeast-1.awsapprunner.com/evaluate-1)| 
 
 
